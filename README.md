@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Stats
 ![Siyoung2da's github stats](https://github-readme-stats.vercel.app/api?username=Siyoung2da&show_icons=true)
 
-<img src="https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=C++&logoColor=white">
+## Skills
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white">
