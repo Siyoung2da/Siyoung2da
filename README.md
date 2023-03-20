@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 <br /> 이거 한 줄 띔
 -->
 
+![header](https://capsule-render.vercel.app/api?_type=rect&color=timeGradient&height=200&text=It's%20me&animation=fadeIn&desc=Siyoung%20Park&textBg=true&descColor&descAlign=70&fontAlign=35&fontAlignY=50&descSize=40&descAlignY=60)
+
 ## Stats
 ![Siyoung2da's github stats](https://github-readme-stats.vercel.app/api?username=Siyoung2da&show_icons=true)
 
 ## Skills
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySql&logoColor=white">
+
+## Solve & Language
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=drq5)](https://solved.ac/drq5/) <a href="https://github.com/siyoung2da"><img style="height:170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyoung2da&layout=compact&theme=buefy&hide_border=true" /></a> 
