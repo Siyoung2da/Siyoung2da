@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <br /> 이거 한 줄 띔
 -->
 
-![header](https://capsule-render.vercel.app/api?_type=rect&color=timeGradient&height=200&text=It's%20me&animation=fadeIn&desc=Siyoung%20Park&textBg=true&descColor&descAlign=70&fontAlign=35&fontAlignY=50&descSize=40&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=200&text=It's%20me&animation=fadeIn&desc=Siyoung%20Park&textBg=true&descColor&descAlign=70&fontAlign=35&fontAlignY=50&descSize=40&descAlignY=50)
 
 ## Stats
 ![Siyoung2da's github stats](https://github-readme-stats.vercel.app/api?username=Siyoung2da&show_icons=true)
